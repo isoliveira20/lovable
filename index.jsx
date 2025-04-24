@@ -74,7 +74,7 @@ const Index = () => {
                     Cadastro Manual
                   </Button>
                   <Button onClick={() => setActiveTab("cadastro-massa")} variant="outline">
-                    Cadastro EM MASSA
+                    CADASTRO EM MASSA
                   </Button>
                 </div>
               </div>
